@@ -1,0 +1,15 @@
+############################################
+# Input: testdata/test2.input
+# Expected output: testdata/test2.output
+# Program output written to: testdata/test2.prog
+# Test successfull.
+############################################
+# Input: testdata/test1.input
+# Expected output: testdata/test1.output
+# Program output written to: testdata/test1.prog
+# Test successfull.
+############################################
+# Input: testdata/example.input
+# Expected output: testdata/example.output
+# Program output written to: testdata/example.prog
+# Test successfull.
